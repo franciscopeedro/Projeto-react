@@ -46,7 +46,7 @@ function App() {
           </>}
         </ul>
       </div>
-      <div className="principal"><video className="video"controls autoplay muted src="https://www.youtube.com/watch?v=oUuA_PGr1-Q"></video></div>
+      <div className="principal"><video className="video"controls autoplay src="https://opexeng.com.br/assets/videos/banner_home.mp4"></video></div>
       <div className='lado'></div>
       <div className="modo">
         <a href="" className='letra-azul semlinha'>Workplan |</a>
