@@ -12,6 +12,8 @@ ul {
   list-style-type: none;
 }
 
+
+
 li { 
   display: block; 
 }
@@ -23,7 +25,9 @@ li {
 .semlinha{
   list-style:none;
   text-decoration:none;
+  border:none;
   color: black;
+  background:none
 }
 
 .cabecalho{
