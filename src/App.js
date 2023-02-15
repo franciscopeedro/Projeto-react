@@ -22,27 +22,27 @@ function App() {
         <ul>
           <a className='semlinha' onClick={() => setOpenLink(!openLink)}> {openLink ? <AiOutlineMinus size={15} color="black" /> : <AiOutlinePlus size={15} color="black" />}Workplan</a>
           {openLink && <>
-            <li><a className='semlinha espaco'>pag1</a></li>
-            <li><a className='semlinha espaco'>pag2</a></li>
-            <li><a className='semlinha espaco'>pag3</a></li>
+            <li><a href="" className='semlinha espaco'>pag1</a></li>
+            <li><a href="" className='semlinha espaco'>pag2</a></li>
+            <li><a href="" className='semlinha espaco'>pag3</a></li>
           </>}
         </ul>
 
         <ul>
           <a className='semlinha' onClick={() => setOpenLink2(!openLink2)}> {openLink2 ? <AiOutlineMinus size={15} color="black" /> : <AiOutlinePlus size={15} color="black" />}Workplan</a>
           {openLink2 && <>
-            <li><a className='semlinha espaco'>pag1</a></li>
-            <li><a className='semlinha espaco'>pag2</a></li>
-            <li><a className='semlinha espaco'>pag3</a></li>
+            <li><a href="" className='semlinha espaco'>pag1</a></li>
+            <li><a href="" className='semlinha espaco'>pag2</a></li>
+            <li><a href=""className='semlinha espaco'>pag3</a></li>
           </>}
         </ul>
 
         <ul>
           <a className='semlinha' onClick={() => setOpenLink3(!openLink3)}> {openLink3 ? <AiOutlineMinus size={15} color="black" /> : <AiOutlinePlus size={15} color="black" />}Workplan</a>
           {openLink3 && <>
-            <li><a className='semlinha espaco'>pag1</a></li>
-            <li><a className='semlinha espaco'>pag2</a></li>
-            <li><a className='semlinha espaco'>pag3</a></li>
+            <li><a href=""className='semlinha espaco'>pag1</a></li>
+            <li><a href=""className='semlinha espaco'>pag2</a></li>
+            <li><a href=""className='semlinha espaco'>pag3</a></li>
           </>}
         </ul>
       </div>
