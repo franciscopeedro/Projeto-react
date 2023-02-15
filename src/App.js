@@ -18,7 +18,8 @@ function App() {
   return (
     <div className='tudo'>
       <div className='cabecalho'>OD:950.00.mm | WHT:35.00mm | ELV:-14.0m </div>
-      <div className='menu'>
+      <div className='backmenu'>
+      <div className='menu backmenu'>
         <ul>
           <button className='semlinha' onClick={() => setOpenLink(!openLink)}> {openLink ? <AiOutlineMinus size={15} color="black" /> : <AiOutlinePlus size={15} color="black" />}Workplan</button>
           {openLink && <>
@@ -45,6 +46,7 @@ function App() {
             <li><button className='semlinha espaco'>pag3</button></li>
           </>}
         </ul>
+      </div>
       </div>
       <div className="principal"><video className="video"controls autoplay src="https://opexeng.com.br/assets/videos/banner_home.mp4"></video></div>
       <div className='lado'></div>
