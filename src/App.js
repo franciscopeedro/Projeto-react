@@ -126,6 +126,50 @@ function App() {
               <td><button className='semlinha'>80.000</button></td>
               <td><button className='semlinha'>Visual Inspection</button></td>
             </tr>
+            <tr>
+              <th scope="row">5</th>
+              <td><button className='semlinha'>2019</button></td>
+              <td><button className='semlinha'>DB</button></td>
+              <td><button className='semlinha'>3</button></td>
+              <td><button className='semlinha'>19-LI-065</button></td>
+              <td><button className='semlinha'>Description</button></td>
+              <td><button className='semlinha'>5.000</button></td>
+              <td><button className='semlinha'>80.000</button></td>
+              <td><button className='semlinha'>Visual Inspection</button></td>
+            </tr>
+            <tr>
+              <th scope="row">6</th>
+              <td><button className='semlinha'>2019</button></td>
+              <td><button className='semlinha'>DB</button></td>
+              <td><button className='semlinha'>3</button></td>
+              <td><button className='semlinha'>19-LI-065</button></td>
+              <td><button className='semlinha'>Description</button></td>
+              <td><button className='semlinha'>5.000</button></td>
+              <td><button className='semlinha'>80.000</button></td>
+              <td><button className='semlinha'>Visual Inspection</button></td>
+            </tr>
+            <tr>
+              <th scope="row">7</th>
+              <td><button className='semlinha'>2019</button></td>
+              <td><button className='semlinha'>DB</button></td>
+              <td><button className='semlinha'>3</button></td>
+              <td><button className='semlinha'>19-LI-065</button></td>
+              <td><button className='semlinha'>Description</button></td>
+              <td><button className='semlinha'>5.000</button></td>
+              <td><button className='semlinha'>80.000</button></td>
+              <td><button className='semlinha'>Visual Inspection</button></td>
+            </tr>
+            <tr>
+              <th scope="row">8</th>
+              <td><button className='semlinha'>2019</button></td>
+              <td><button className='semlinha'>DB</button></td>
+              <td><button className='semlinha'>3</button></td>
+              <td><button className='semlinha'>19-LI-065</button></td>
+              <td><button className='semlinha'>Description</button></td>
+              <td><button className='semlinha'>5.000</button></td>
+              <td><button className='semlinha'>80.000</button></td>
+              <td><button className='semlinha'>Visual Inspection</button></td>
+            </tr>
           </tbody>
         </table>
       </div>
