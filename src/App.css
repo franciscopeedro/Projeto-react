@@ -24,8 +24,8 @@ background-color: rgba(172, 169, 169, 0.151);
 .lado{
   height: 330px;
   width: 40%;
-  background-repeat: none;
-  background-image: url(C:\Users\Usuario\projetojs\src\foto.jpg);
+  background-size: cover;
+  background-image: url(foto.jpg);
   float: right;
 }
 
