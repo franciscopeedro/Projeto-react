@@ -9,19 +9,22 @@ height: 25px;
 width: 100%;
 background-color: rgba(172, 169, 169, 0.151);
 }
+
 .menu{
   height: 330px;
   width: 25%;
   background-color: rgb(206, 241, 187);
   float: left;
 }
+
 .principal{
   height: 330px;
   width:  35%;
   background-color:  lightgray;
   float: left;
 }
-.lado{
+
+.projeto3D{
   height: 330px;
   width: 40%;
   background-size: cover;
@@ -34,7 +37,6 @@ background-color: rgba(172, 169, 169, 0.151);
   height: 100%;
   width:  100%;
 }
-
 
 .opcoes{
   height: 100%;
@@ -51,6 +53,7 @@ background-color: rgba(172, 169, 169, 0.151);
   float: inline-end;
   clear: both;
 }
+
 *{
   margin:0;
   padding: 0;;
