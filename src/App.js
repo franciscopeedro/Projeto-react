@@ -7,7 +7,7 @@ import { FaSquareFull } from "react-icons/fa";
 import { FaTh } from "react-icons/fa";
 import { FaRegStarHalf } from "react-icons/fa";
 import { useState } from 'react';
-import { Viewer, XKTLoaderPlugin } from "./services/api";
+import {Viewer, XKTLoaderPlugin} from "./services/api";
 function App() {
 
   const [openLink, setOpenLink] = useState(false);
@@ -50,7 +50,7 @@ function App() {
         </div>
       </div>
       <div className="principal"><video className="video" controls autoplay src="https://opexeng.com.br/assets/videos/banner_home.mp4"></video></div>
-      <div className='projeto3D'>
+      <div className='projeto3D'><script type='module'><canvas id="myCanvas">  </canvas> </script>
       </div>
       <div className="modo">
         <button className='letra-azul semlinha'>Workplan |</button>

@@ -1,4 +1,4 @@
-import {Viewer, XKTLoaderPlugin} from "https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys";
+import {Viewer, XKTLoaderPlugin} from "https://github.com/xeokit/xeokit-bim-viewer";
 
 const viewer = new Viewer({
     canvasId: "myCanvas"
@@ -44,4 +44,4 @@ viewer.scene.input.on("mousemove", function (coords) {
     }
 });
 
-export default {viewer,xktLoader};
+export default {viewer,xktLoader}
